@@ -17,10 +17,10 @@
         <img src="歌单.jpg"></li>
         <li>2.跳舞（目前正在努力学习）
         拉丁舞
-          <img src="跳舞照片。jpg"></li>
+          <img src="跳舞照片.jpg"></li>
   </ul>
         3.爱小天（EXO）
         <img src="爱丽.jpg">
-  <img src="小天（2）.jpg"</p>
+  <img src="小天（2).jpg"></p>
     </body>
 </html>
